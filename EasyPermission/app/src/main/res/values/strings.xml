@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EasyPermission</string>
+
+    <string name="open_camera_info">Open camera with permission check</string>
+    <string name="open_camera">Open camera</string>
+
+    <string name="open_camera_info_1">Open camera without permission check</string>
+
+    <string name="alert_dialog_msg_camera">This application needs your permission to use the camera.\n\nPlease press button "Settings" ,  find Permission manager ,then turn on the permission of access camera!</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EasyPermission</string>
+
+    <string name="open_camera_info">打开相机时检查权限</string>
+    <string name="open_camera">打开相机</string>
+
+    <string name="open_camera_info_1">打开相机时不检查权限</string>
+</resources>
